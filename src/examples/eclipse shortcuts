@@ -1,0 +1,18 @@
+1. Ctrl + Shift + X				: Convert to Upper Case
+2. Ctrl + Shift + Y				: Convert to Lower Case
+3. "sysout", then Ctrl + Space	: System.out.println()
+4.	"main", then Ctrl + Space	: create main method
+5.	"if", then Ctrl + Space		: create if control block
+6. Alt + Up or Down Arrow 		: Move lines of text uup or down
+7. Alt + Shift + Z				: surround code with various stuff
+8. Ctrl + Shift + F 			: format file
+9. Ctrl + Shift + O 			: optimize imports
+10. Ctrl + / 					: Comment or uncomment lines of code
+11. Ctrl + Shift + / 			: Multi-line block comment
+12. Alt + Shift + R				: Rename variable, method or class
+13. Ctrl + L					: Jump to line
+14. Alt + shift + M				: Extract Method
+15. Ctrl + D 					: Delete Line
+16. Ctrl + Shift + P			: Jump to beginning of (), {} or []	
+17. Ctrl + "+", Ctrl + "-"		: Increase or decrease font size
+18. Ctrl + Shift + R			: Open resource

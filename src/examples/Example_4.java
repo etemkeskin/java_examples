@@ -1,13 +1,12 @@
 package examples;
 
-
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
 public class Example_4 {
 
 	public static void main(String[] args) {
-		
+
 		String ourDatePattern = "MM-dd-yyyy";
 		Date myDate = new Date();
 		System.out.println(makeDateToSpecificFormat(ourDatePattern, myDate));
