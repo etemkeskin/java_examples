@@ -8,7 +8,7 @@ public class Example_7 {
 		largestNumber(newArray);
 	}
 	
-	// find largest number in an array
+	// Find largest number in an array
 	public static void largestNumber(int[] newArray) {
 		int max = newArray[0];
 		
