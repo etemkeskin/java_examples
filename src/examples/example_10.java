@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.LinkedHashSet;
 import java.util.Set;
 
-public class example_10 {
+public class Example_10 {
 
 	public static void main(String[] args) {
 		
