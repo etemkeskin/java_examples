@@ -9,3 +9,8 @@
 8. Is number prime number
 9. Calculate factorial of given number
 11. Find second largest number in an array
+12. Check if two strings are anagrams 
+13. Binary Search
+14. Print all unique words of a String
+15. Custom immutable class
+16. Find Duplicate Elements in an Array
