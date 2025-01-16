@@ -1,0 +1,7 @@
+TrxDate,TraxPlace,ProductName,Price,PaymentMode,TrxID
+10-DEC-2023,Dmart,Oil,450,CreditCard,12345
+10-DEC-2023,Dmart,Brusch,50,CreditCard,12345
+10-DEC-2023,Dmart,Soap,45,CreditCard,12345
+9-DEC-2023,Retail,Chips,10,Cash,123456
+9-DEC-2023,Retail,Biscuits,20,Cash,123456
+12-JAN-2024,Reliance,Iphone,840000,CreditCard,1234567

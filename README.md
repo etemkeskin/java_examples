@@ -14,3 +14,5 @@
 14. Print all unique words of a String
 15. Custom immutable class
 16. Find Duplicate Elements in an Array
+17. Read the transaction.csv file 
+18. Selection sort algorithm
